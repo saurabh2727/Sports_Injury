@@ -1,3 +1,6 @@
+# Please download the HTML file to just view the rendered output.
+
+
 # Sports_Injury
 Predicting days taken for a player to return to the sport after the injury.
 This data mining project involves sports injury data in USA in four different sports viz. Basketball, football, hockey and baseball, where vast data has been processed using various statistical techniques into helpful information. In this report, diverse techniques are utilized to find relationships, patterns and associations among the dataset features. The data has been processed in jupyter notebok to achieve all data mining findings.
